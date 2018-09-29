@@ -1,0 +1,19 @@
+{
+  "Customers" : [
+    {
+      "name" : "Max",
+      "surname" : "Willson",
+      "phone" : 356983810
+    },
+    {
+      "name" : "Harvy",
+      "surname" : "Specter",
+      "phone" :  22566940
+    },
+    {
+      "name" : "Wendy",
+      "surname" : "Blackrock",
+      "phone" : 224554454
+    }
+  ]
+}
